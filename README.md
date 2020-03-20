@@ -21,7 +21,7 @@ One walk per capita per day, tracked and traceable for authorities. The route is
 
 |  Issue | Solution  | Comment  |  
 |---|---|---|
-|  Mixing of shoppers and walkers | App should avoid supermarkets/famacies etc.  | Countries under lock-down show that people use shopping as a possibility to get out, so maybe even safer to do that with the app in an organized way  |
+|  Mixing of shoppers and walkers | App should avoid supermarkets/farmacies etc.  | Countries under lock-down show that people use shopping as a possibility to get out, so maybe even safer to do that with the app in an organized way  |
 |  Elderly people have problems with using the smartphone |  Accompanying persons if available |   |
 |  Children | Only with company of one person  |   |  
 

@@ -6,7 +6,7 @@ App with government monitoring.
 
 ## Problem
 
-More countries decide to lock-down the entire population in a domestic quarantine and the periods are constantly being extended. In China, the quarantine period in some areas is already over 40 days.
+More countries decide to lock-down the entire population in a domestic quarantine and the periods are constantly being extended. In China, the quarantine period in some areas is already exceed 40 days.
  
 We need long-term concepts to cope with quarantine to ensure a follow-up to the quarantine and to support the health of each individual. In Italy, Spain as well as France the number of infringements is increasing.  
 

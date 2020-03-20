@@ -10,7 +10,7 @@ More countries decide to lock-down the entire population in a domestic quarantin
  
 We need long-term concepts to cope with quarantine to ensure a follow-up to the quarantine and to support the health of each individual. In Italy, Spain as well as France the number of infringements is increasing.  
 
-The health pressure of the quarantined population is increasing, especially in large cities where the living space and thus the space for movement is much smaller than in the countryside.
+The health pressure of the quarantined population is growing every day, especially in large cities where the living space and thus the space for movement is much smaller than in the countryside.
 
 ## Solution
 

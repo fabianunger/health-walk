@@ -1,9 +1,15 @@
-# health-walk
-
-**Corona Hackathon 2020 App Concept**
+# health-walk: Corona Hackathon 2020 App Concept
 
 Registered, tracked, legal walks in times of corona lockdown
 App with government monitoring.
+
+## How to Contribute 
+
+To contribute make a [pull-request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+
+Check out how to use [Markdown](https://guides.github.com/features/mastering-markdown/)
+
+For Editing check out [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Concept
 

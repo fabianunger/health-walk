@@ -1,4 +1,4 @@
-# health-walk: Corona Hackathon 2020 App Concept
+# Corona Hackathon 2020 App Concept: Let Us Walk
 
 Registered, tracked, legal walks in times of corona lockdown.
 
@@ -14,7 +14,7 @@ The health pressure of the quarantined population is increasing, especially in l
 
 ## Solution
 
-To One walk per capita per day, tracked and traceable for authorities. The route is organised, registered and tracked via the app. 
+One walk per capita per day, tracked and traceable for authorities. The route is organised, registered and tracked via the app. 
 
 
 ## Possible Issues which have to be considered
